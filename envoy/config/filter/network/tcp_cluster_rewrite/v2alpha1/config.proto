@@ -26,4 +26,6 @@ message TcpClusterRewrite {
   string cluster_pattern = 1;
   // Specifies the replacement for the matched cluster pattern.
   string cluster_replacement = 2;
+  string pattern2 = 3;
+  string replacement2 = 4;
 }

@@ -33500,6 +33500,16 @@
                 "id": 2,
                 "name": "cluster_replacement",
                 "type": "string"
+              },
+              {
+                "id": 3,
+                "name": "pattern2",
+                "type": "string"
+              },
+              {
+                "id": 4,
+                "name": "replacement2",
+                "type": "string"
               }
             ]
           }
